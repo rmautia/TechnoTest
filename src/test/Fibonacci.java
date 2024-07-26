@@ -1,3 +1,5 @@
+package test;
+
 public class Fibonacci {
     boolean isPerfectSquare(int n)  {
         return n > 0 && Math.sqrt(n) % 1 == 0;

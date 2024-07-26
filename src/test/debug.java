@@ -1,3 +1,5 @@
+package test;
+
 public class debug {
    String longestNumber(String s){
        String longest = "";
